@@ -1,3 +1,7 @@
+# samoloty
+
+Film: https://www.youtube.com/watch?v=8ZiLuGSUP8E
+
 1. Wycinanie i sklejanie szablonu (10 min)
    - Ogon u góry
 2. Wycinamy kawalek na skrzydło i kadłub
