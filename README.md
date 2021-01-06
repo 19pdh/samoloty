@@ -1,0 +1,1 @@
+skr-instrukcja.md
